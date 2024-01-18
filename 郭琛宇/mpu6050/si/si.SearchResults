@@ -1,0 +1,6 @@
+---- LCD_P16x16Ch Matches (5 in 2 files) ----
+LCD.h:void LCD_P16x16Ch(unsigned char x, unsigned char y, unsigned char N)
+Main.c:            LCD_P16x16Ch(i*16,0,i);  //µ„’Ûœ‘ æ
+Main.c:            LCD_P16x16Ch(i*16,2,i+8);
+Main.c:            LCD_P16x16Ch(i*16,4,i+16);
+Main.c:            LCD_P16x16Ch(i*16,6,i+24);
